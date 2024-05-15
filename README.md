@@ -1,4 +1,4 @@
-# Gimnasio Fitness Pro
+# Gimnasio Atlas
 
 ¡Bienvenido a la página web del Gimnasio Atlas!
 
